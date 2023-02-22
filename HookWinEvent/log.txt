@@ -1,0 +1,426 @@
+afterhook 1
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+ProcessQuery:System.Management.SelectQuery
+Processes:1
+In loop
+InvokeResult:0
+Owner:testsicavPid:testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath
+:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath
+:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21T05:11:35
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21T05:11:37
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21T05:12:00
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21T05:17:24
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21T17:19:21
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21T17:19:23
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+
+
+Url:/testhook/OnActiveUser.aspx?&user=testsicav
+2023-02-21T21:29:46
+PhysAppPath:C:\SicavTest\Services\Hook
+RootPath:C:\SicavTest
+AppPoolUser:NT AUTHORITY\SYSTEM
+UserParam:testsicav
+RemoteUserFile:C:\SicavTest\build\testsicav
+ProcessQuery:System.Management.SelectQuery
+Processes:0
+
+
